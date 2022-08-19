@@ -8,7 +8,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexReisC&theme=tokyonight&layout=compact)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alex-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
