@@ -1,5 +1,22 @@
 ### Olá, eu sou Alex 👋
 
-- 📚 Estudande de Ciência da Computação
+- 📚 Estudante de Ciência da Computação
 - 🌱 Eu estou iniciando minha jornada no front-end
 - 😄 Pronomes: Ele/Dele
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexReisC&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexReisC&theme=tokyonight&layout=compact)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Alex-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+
+#
+
+<div>
+    <a href="https://https://www.instagram.com/c_alexreis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+    <a href = "mailto:reisc2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/alex-reis-cavalcante-628036249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
