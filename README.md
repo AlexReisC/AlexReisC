@@ -4,8 +4,8 @@
 - 🌱 Eu estou iniciando minha jornada no front-end
 - 😄 Pronomes: Ele/Dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexReisC&count_private=true&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexReisC&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexReisC&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexReisC&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
