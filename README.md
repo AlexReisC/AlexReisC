@@ -1,8 +1,7 @@
-### Olá, eu sou Alex 👋
+### Oi, eu sou Alex 👋
 
 - 📚 Estudante de Ciência da Computação
 - 🌱 Eu estou iniciando minha jornada como Dev
-- 😄 Pronomes: Ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexReisC&count_private=true&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexReisC&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
