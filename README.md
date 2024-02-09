@@ -1,6 +1,9 @@
 ### Oi, eu sou Alex 👋
 
 - 📚 Estudante de Ciência da Computação
+- Quero me tornar um desenvolvedor backend, por isso estudo Java ☕
+- Também gosto de C 💙
+- Quando não estou programando estou assistindo/lendo sobre programção e animes (também joga bola quando posso).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexReisC&count_private=true&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexReisC&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
