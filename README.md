@@ -1,12 +1,12 @@
-### Oi, eu sou Alex 👋
+## Hi, I am Alex 👋
 
 - Compiuter Science student 📚
 - I want become a Java Developer ☕
 - Like C too 💙
 - When Im not programming, Im watching/reading about programming and animes (I like play football too).
 
-## My principal side projects
-- **Programming and computer science**
+### My principal side projects
+- **Programming, Computer science and Java**
   - [Notes from my studies](https://github.com/AlexReisC/anotacoes-sobre-programacao-e-fundamentos) (This notes are in Portuguese)
 - **Java:**
   - [MyAnimeSpace](https://github.com/AlexReisC/myAnimeSpace) (Personal anime catalog)
