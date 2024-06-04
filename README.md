@@ -3,6 +3,7 @@
 - Computer Science student 📚
 - I want become a Java Developer ☕
 - Like C too 💙
+- I write about my studies in [Dev.to](dev.to/alexreis) :)
 - When Im not programming, Im watching/reading about programming and animes (I like play football too).
 
 ### My principal side projects
@@ -26,9 +27,6 @@
 
 #
 
-I write about my studies in [Dev.to](dev.to/alexreis) :)
-
-#
 <div>
   <a href="https://www.linkedin.com/in/alex-reis-cavalcante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:reisc2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
