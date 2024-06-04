@@ -1,6 +1,6 @@
 ## Hi, I am Alex 👋
 
-- Compiuter Science student 📚
+- Computer Science student 📚
 - I want become a Java Developer ☕
 - Like C too 💙
 - When Im not programming, Im watching/reading about programming and animes (I like play football too).
@@ -26,7 +26,7 @@
 
 #
 
-I write about my studys in [Dev.to](dev.to/alexreis) :)
+I write about my studies in [Dev.to](dev.to/alexreis) :)
 
 #
 <div>
