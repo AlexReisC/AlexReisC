@@ -3,7 +3,7 @@
 - Computer Science student 📚
 - I want become a Java Developer ☕
 - Like C too 💙
-- I write about my studies in [Dev.to](dev.to/alexreis) :)
+- I write about my studies in [Dev.to](https://dev.to/alexreis) :)
 - When Im not programming, Im watching/reading about programming and animes (I like play football too).
 
 ### My principal side projects
