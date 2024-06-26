@@ -11,7 +11,7 @@
   - [Notes from my studies](https://github.com/AlexReisC/anotacoes-sobre-programacao-e-fundamentos) (This notes are in Portuguese)
 - **Java:**
   - [MyAnimeSpace](https://github.com/AlexReisC/myAnimeSpace) (A basic personal anime catalog that no implement database or Api)
-  - [Sistema de cadastro]() (A basic registration system in Java using '.txt' files )
+  - [Sistema de cadastro](https://github.com/AlexReisC/sistema-de-cadastros) (A basic registration system in Java using '.txt' files )
 - **C:**
   - [Pega em Seis](https://github.com/AlexReisC/jogo-Pega-Em-Seis) (Card game made in C and data structures)
   - [Paint OpenGL](https://github.com/AlexReisC/paintOpenGL) (Paint simple version made in C and openGL library)
