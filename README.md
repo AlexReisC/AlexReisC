@@ -12,6 +12,7 @@
 - **Java:**
   - [MyAnimeSpace](https://github.com/AlexReisC/myAnimeSpace) (A basic personal anime catalog that no implement database or Api)
   - [Sistema de cadastro](https://github.com/AlexReisC/sistema-de-cadastros) (A basic registration system in Java using '.txt' files )
+  - [crud-com-Java](https://github.com/AlexReisC/crud-com-Java) (Simple CRUD using JDBC)
 - **C:**
   - [Pega em Seis](https://github.com/AlexReisC/jogo-Pega-Em-Seis) (Card game made in C and data structures)
   - [Paint OpenGL](https://github.com/AlexReisC/paintOpenGL) (Paint simple version made in C and openGL library)
