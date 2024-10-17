@@ -7,7 +7,7 @@
 - When Im not programming, Im watching/reading about programming and animes (I like play football too).
 
 ### My principal side projects
-- [Almossar (Telegram bot)](https:github.com/alexreisc/Almossar)
+- [Almossar (Telegram bot)](https://github.com/AlexReisC/Almossar)
 - [My Portfolio](https://github.com/alexreisc/meu-Portfolio/)
 - **Programming, Computer science and Java**
   - [Notes from my studies](https://github.com/AlexReisC/anotacoes-sobre-programacao-e-fundamentos) (This notes are in Portuguese)
