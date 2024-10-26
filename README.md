@@ -1,27 +1,27 @@
-## Hi, I am Alex 👋
+## Oi, sou o Alex 👋
 
-- Computer Science student 📚
-- I want become a Java Developer ☕
-- Like C too 💙
-- I write about my studies in [Dev.to](https://dev.to/alexreis) :)
-- When Im not programming, Im watching/reading about programming and animes (I like play football too).
+- Estudante de Ciência da Computação 📚
+- Quero ser um Desenvolvedor Java ☕
+- Gosto de C 💙
+- Escrevo sobre coisas que estudo no [Dev.to](https://dev.to/alexreis) :)
+- Gosto de acompanhar conteúdo de programação nas redes sociais, assistir animes e jogar futebol.
 
-### My principal side projects
+### Meus principais projetos
 - [Almossar (Telegram bot)](https://github.com/AlexReisC/Almossar)
-- [My Portfolio](https://github.com/alexreisc/meu-Portfolio/)
-- **Programming, Computer science and Java**
-  - [Notes from my studies](https://github.com/AlexReisC/anotacoes-sobre-programacao-e-fundamentos) (This notes are in Portuguese)
+- [Meu Portfolio](https://github.com/alexreisc/meu-Portfolio/)
+- **Programação, Ciência da Computação e Java**
+  - [Anotações dos meus estudos](https://github.com/AlexReisC/anotacoes-sobre-programacao-e-fundamentos)
 - **Java:**
-  - [MyAnimeSpace](https://github.com/AlexReisC/myAnimeSpace) (A basic personal anime catalog that no implement database or Api)
-  - [Sistema de cadastro](https://github.com/AlexReisC/sistema-de-cadastros) (A basic registration system in Java using '.txt' files )
-  - [crud-com-Java](https://github.com/AlexReisC/crud-com-Java) (Simple CRUD using JDBC)
-  - [consumindo-Api](https://github.com/AlexReisC/consumindo-Api) (Consume an API for the first time)
+  - [MyAnimeSpace](https://github.com/AlexReisC/myAnimeSpace) (Simples catalogo pessoal de animes para treinar POO)
+  - [Sistema de cadastro](https://github.com/AlexReisC/sistema-de-cadastros) (Sistema de cadastro básico usando arquivos '.txt')
+  - [crud-com-Java](https://github.com/AlexReisC/crud-com-Java) (CRUD simples usando JDBC e MySQL)
+  - [consumindo-Api](https://github.com/AlexReisC/consumindo-Api) (Consumindo uma API pela primeira vez)
 - **C:**
-  - [Pega em Seis](https://github.com/AlexReisC/jogo-Pega-Em-Seis) (Card game made in C and data structures)
-  - [Paint OpenGL](https://github.com/AlexReisC/paintOpenGL) (Paint simple version made in C and openGL library)
-- **Assembly and Computer Archtecture:**
-  - [Processor MIPS simple](https://github.com/AlexReisC/processor-mips-like-simple) (Simple processor like MIPS made in the Logisim)
-  - [Campo Minado Assembly MIPS](https://github.com/AlexReisC/campoMinadoAssembly) (Minesweeper made in Assembly MIPS)
+  - [Pega em Seis](https://github.com/AlexReisC/jogo-Pega-Em-Seis) (Jogo de cartas feito em C e implementando estruturas de dados)
+  - [Paint OpenGL](https://github.com/AlexReisC/paintOpenGL) (Versão simples do Paint em C e que usa a biblioteca openGL)
+- **Assembly e Arquitetura de Computadores:**
+  - [Processor MIPS simple](https://github.com/AlexReisC/processor-mips-like-simple) (Prrocessador simples inspirado no MIPS e feito no Logisim)
+  - [Campo Minado Assembly MIPS](https://github.com/AlexReisC/campoMinadoAssembly) (Campo Minado feito com Assembly MIPS)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
