@@ -2,7 +2,6 @@
 
 - Estudante de Ciência da Computação 📚
 - Quero ser um Desenvolvedor Java ☕
-- Gosto de C 💙
 - Escrevo sobre coisas que estudo no [Dev.to](https://dev.to/alexreis) :)
 - Gosto de acompanhar conteúdo de programação nas redes sociais, assistir animes e jogar futebol.
 
