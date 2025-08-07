@@ -7,14 +7,15 @@
 
 ### Meus principais projetos
 - [Almossar (Telegram bot)](https://github.com/AlexReisC/Almossar)
+- [Chat usando WebSockets](https://github.com/AlexReisC/Quick-Chat-using-WebSockets)
 - [Meu Portfolio](https://github.com/alexreisc/meu-Portfolio/)
-- **Programação, Ciência da Computação e Java**
-  - [Anotações dos meus estudos](https://github.com/AlexReisC/anotacoes-sobre-programacao-e-fundamentos)
 - **Java:**
   - [MyAnimeSpace](https://github.com/AlexReisC/myAnimeSpace) (Simples catalogo pessoal de animes para treinar POO)
   - [Sistema de cadastro](https://github.com/AlexReisC/sistema-de-cadastros) (Sistema de cadastro básico usando arquivos '.txt')
   - [crud-com-Java](https://github.com/AlexReisC/crud-com-Java) (CRUD simples usando JDBC e MySQL)
   - [consumindo-Api](https://github.com/AlexReisC/consumindo-Api) (Consumindo uma API pela primeira vez)
+- JavaScript/Node:
+  - [Task Tracer](https://github.com/AlexReisC/Task-Tracker)
 - **C:**
   - [Pega em Seis](https://github.com/AlexReisC/jogo-Pega-Em-Seis) (Jogo de cartas feito em C e implementando estruturas de dados)
   - [Paint OpenGL](https://github.com/AlexReisC/paintOpenGL) (Versão simples do Paint em C e que usa a biblioteca openGL)
