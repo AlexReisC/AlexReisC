@@ -6,16 +6,13 @@
 - Gosto de acompanhar conteúdo de programação (Youtube/Twitter), assistir animes e jogar futebol.
 
 ### Meus principais projetos
-- [Almossar (Telegram bot)](https://github.com/AlexReisC/Almossar)
-- [Chat usando WebSockets](https://github.com/AlexReisC/Quick-Chat-using-WebSockets)
-- [Gerenciamento de Loja](https://github.com/AlexReisC/Gerenciamento-de-Loja)
-- [Meu Portfolio](https://github.com/alexreisc/meu-Portfolio/)
+- **Java, Spring**
+  - [Almossar (Telegram bot)](https://github.com/AlexReisC/Almossar)
+  - [Chat usando WebSockets](https://github.com/AlexReisC/Quick-Chat-using-WebSockets)
+  - [Gerenciamento de Loja](https://github.com/AlexReisC/Gerenciamento-de-Loja)
 - **JavaScript/Node**:
   - [Task Tracer](https://github.com/AlexReisC/Task-Tracker)
   - [PlaylistSync](https://github.com/AlexReisC/PlaylistSync)
-- **Java:**
-  - [MyAnimeSpace](https://github.com/AlexReisC/myAnimeSpace) (Simples catalogo pessoal de animes para treinar POO)
-  - [Sistema de cadastro](https://github.com/AlexReisC/sistema-de-cadastros) (Sistema de cadastro básico usando arquivos '.txt')
 - **C:**
   - [Pega em Seis](https://github.com/AlexReisC/jogo-Pega-Em-Seis) (Jogo de cartas feito em C e implementando estruturas de dados)
   - [Paint OpenGL](https://github.com/AlexReisC/paintOpenGL) (Versão simples do Paint em C e que usa a biblioteca openGL)
