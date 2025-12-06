@@ -1,34 +1,61 @@
-## Oi, sou o Alex 👋
+# Olá! 👋 Eu sou Alex
 
-- Estudante de Ciência da Computação 📚
-- Quero ser um Desenvolvedor Java ☕
-- Escrevo sobre coisas que estudo no [Dev.to](https://dev.to/alexreis) ✍️
-- Gosto de acompanhar conteúdo de programação (Youtube/Twitter), assistir animes e jogar futebol.
+### 🚀 Desenvolvedor | Entusiasta de Tecnologia | Javeiro
 
-### Meus principais projetos
-- **Java, Spring**
-  - [Almossar (Telegram bot)](https://github.com/AlexReisC/Almossar)
-  - [Chat usando WebSockets](https://github.com/AlexReisC/Quick-Chat-using-WebSockets)
-  - [Gerenciamento de Loja](https://github.com/AlexReisC/Gerenciamento-de-Loja)
-- **JavaScript/Node**:
-  - [Task Tracer](https://github.com/AlexReisC/Task-Tracker)
-  - [PlaylistSync](https://github.com/AlexReisC/PlaylistSync)
-- **C:**
-  - [Pega em Seis](https://github.com/AlexReisC/jogo-Pega-Em-Seis) (Jogo de cartas feito em C e implementando estruturas de dados)
-  - [Paint OpenGL](https://github.com/AlexReisC/paintOpenGL) (Versão simples do Paint em C e que usa a biblioteca openGL)
-- **Assembly e Arquitetura de Computadores:**
-  - [Processor MIPS simple](https://github.com/AlexReisC/processor-mips-like-simple) (Prrocessador simples inspirado no MIPS e feito no Logisim)
-  - [Campo Minado Assembly MIPS](https://github.com/AlexReisC/campoMinadoAssembly) (Campo Minado feito com Assembly MIPS)
+Sou apaixonado por <ins>aprender novas linguagens e resolver problemas complexos</ins>. Atualmente, estou focado em aprimorar minhas habilidades em Backend.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alex-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Alex-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+---
 
-#
+## 🛠️ Habilidades e Tecnologias
 
-<div>
-  <a href="https://www.linkedin.com/in/alex-reis-cavalcante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:reisc2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+Aqui estão algumas das ferramentas e tecnologias com as quais tenho trabalhado:
+
+| Categoria | Tecnologias |
+| :---: | :---: |
+| **Linguagens** | `Java` • `JavaScript` • `Python` |
+| **Frontend** | `React` • `HTML5` • `CSS3` |
+| **Backend** | `Spring Boot` • `Node.js` • `Fastify` |
+| **Banco de Dados** | `PostgreSQL` • `MySQL` • `MongoDB` • `Redis` |
+| **DevOps/Cloud** | `Docker` • `OCI` • `AWS` • `CI/CD` |
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/AlexReisC?theme=dark?theme=dark&config=config.json">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/AlexReisC">
+</picture>
+
+---
+
+## 🔗 Conecte-se Comigo!
+
+Estou sempre aberto(a) a novas conexões e colaborações. Sinta-se à vontade para entrar em contato!
+
+* **LinkedIn:** https://linkedin.com/in/alex-reis-cavalcante
+* **Website/Portfólio:** [Seu Link de Portfólio (Se houver)]
+* **Email:** reisc2018@gmail.com
+
+<a href="https://linkedin.com/in/alex-reis-cavalcante"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="[Seu Link de Portfólio (Se houver)]"><img src="https://img.shields.io/badge/-Portfólio-F7DF1E?style=for-the-badge&logo=google-chrome&logoColor=black" target="_blank"></a>
+
+---
+
+## 💻 Atualmente Trabalhando em...
+
+* Real-time Chat.
+* Aprendendo mais sobre Java, Microsserviços, AWS.
+* Buscando oportunidades em Desenvolvimento Web.
+
+---
+
+### ✨ Destaque: Crachás (Badges)
+
+Badges são pequenos ícones que fornecem informações rápidas e são ótimos para o visual.
+
+![GitHub followers](https://img.shields.io/github/followers/AlexReisC?style=social)
+
+![Open Source?](https://img.shields.io/badge/Open%20Source-Sim!-brightgreen)
+
+![Status](https://img.shields.io/badge/Disponível%20para%20Trabalho-Sim-blue)
