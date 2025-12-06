@@ -23,7 +23,7 @@ Aqui estão algumas das ferramentas e tecnologias com as quais tenho trabalhado:
 ## 📈 Estatísticas do GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/AlexReisC?theme=dark?theme=dark&config=config.json">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/AlexReisC?config=config.json&theme=dark">
   <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/AlexReisC">
 </picture>
 
