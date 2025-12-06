@@ -2,7 +2,7 @@
 
 ### 🚀 Desenvolvedor | Entusiasta de Tecnologia | Javeiro
 
-Sou apaixonado por <ins>aprender novas linguagens e resolver problemas complexos</ins>. Atualmente, estou focado em aprimorar minhas habilidades em Backend.
+Sou apaixonado por aprender novas linguagens e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em Backend.
 
 ---
 
@@ -22,14 +22,11 @@ Aqui estão algumas das ferramentas e tecnologias com as quais tenho trabalhado:
 
 ## 📈 Estatísticas do GitHub
 
-<a href="https://github.com/AlexReisC/github-used-languages" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-used-languages.vercel.app/AlexReisC?config=config.json&theme=dark">
-    <img alt="Most Used Languages'" 
-         src="https://github-used-languages.vercel.app/AlexReisC?config=config.json">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/alexreisc?config=config.json&theme=dark">
+  <img alt="Most Used Languages'" 
+       src="https://github-used-languages.vercel.app/AlexReisC?config=config.json">
+</picture>
 
 ---
 
