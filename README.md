@@ -24,8 +24,10 @@ Aqui estão algumas das ferramentas e tecnologias com as quais tenho trabalhado:
 
 <a href="https://github.com/AlexReisC/github-used-languages" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/alexreisc?config=config.json&theme=dark">
-    <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/AlexReisC">
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-used-languages.vercel.app/AlexReisC?config=config.json&theme=dark">
+    <img alt="Most Used Languages'" 
+         src="https://github-used-languages.vercel.app/AlexReisC?config=config.json">
   </picture>
 </a>
 
