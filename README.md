@@ -34,7 +34,7 @@ Estou sempre aberto(a) a novas conexões e colaborações. Sinta-se à vontade p
 
 ## 💻 Atualmente Trabalhando em...
 
-* Real-time Chat.
+* ![Real-Time chat](https://github.com/AlexReisC/real-time-chat)
 * Aprendendo mais sobre Java, Microsserviços, AWS.
 * Buscando oportunidades em Desenvolvimento Web.
 
